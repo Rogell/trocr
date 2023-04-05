@@ -1,0 +1,4 @@
+--extra https://download.pytorch.org/whl/cu111
+torch
+torchvision
+torchaudio
