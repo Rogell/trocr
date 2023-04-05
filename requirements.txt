@@ -2,7 +2,6 @@
 torch
 torchvision
 torchaudio
-cudatoolkit
 pillow==9.0.1
 transformers==4.16.2
 sentencepiece==0.1.96
