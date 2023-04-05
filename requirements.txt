@@ -2,7 +2,7 @@ pillow~=9.0
 transformers==4.16.2
 sentencepiece==0.1.96
 typer==0.4.1
---index-url https://download.pytorch.org/whl/cu111
+--extra https://download.pytorch.org/whl/cu111
 torch
 torchvision
 torchaudio
